@@ -3,7 +3,7 @@ version: 1
 data:
   name: Unwanted Platform Storage packages
   description: Unwanted Platform Storage and Components
-  maintainer: sst_platform_storage
+  maintainer: ssg_platform_storage
 
   unwanted_packages:
   - cmirror-standalone
